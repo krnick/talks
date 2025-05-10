@@ -1,5 +1,8 @@
 # talks
 
+## 2025
+
+Virus Bulletin 2025 [info](https://www.virusbulletin.com/conference/vb2025/abstracts/hunting-potential-c2-commands-android-malware-smali-string-comparison-and-control-flow-analysis/)
 
 ## 2021
 
