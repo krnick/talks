@@ -2,9 +2,9 @@
 
 ## 2025
 
-Virus Bulletin 2025 [info](https://www.virusbulletin.com/conference/vb2025/abstracts/hunting-potential-c2-commands-android-malware-smali-string-comparison-and-control-flow-analysis/)
+Virus Bulletin 2025 - Hunting potential C2 commands in Android malware via Smali string comparison and control flow analysis [info](https://www.virusbulletin.com/conference/vb2025/abstracts/hunting-potential-c2-commands-android-malware-smali-string-comparison-and-control-flow-analysis/)
 
-PyConTW 2025 [info](https://tw.pycon.org/2025/zh-hant/conference/talk/332)
+PyConTW 2025 - Practical Python Malware Analysis [info](https://tw.pycon.org/2025/zh-hant/conference/talk/332)
 
 ## 2021
 
