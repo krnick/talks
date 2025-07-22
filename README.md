@@ -4,6 +4,8 @@
 
 Virus Bulletin 2025 [info](https://www.virusbulletin.com/conference/vb2025/abstracts/hunting-potential-c2-commands-android-malware-smali-string-comparison-and-control-flow-analysis/)
 
+PyConTW 2025 [info](https://tw.pycon.org/2025/zh-hant/conference/talk/332)
+
 ## 2021
 
 Black Hat Asia 2021 Arsenal [info](https://www.blackhat.com/asia-21/arsenal/schedule/index.html#quark-engine-storyteller-of-android-malware-22458)
